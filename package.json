@@ -1,0 +1,21 @@
+{
+  "name": "reactApp",
+  "version": "15.3.0",
+  "description": "ERROR: No README data found!",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "abimathi",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "react": "~15.3.0",
+    "react-dom": "~15.3.0",
+    "webpack-dev-server": "~1.14.1",
+    "style-loader": "~0.13.1",
+    "css-loader": "~0.18.0",
+    "isomorphic-style-loader": "~1.0.0",
+    "react-css-modules": "~3.7.10"
+  },
+  "devDependencies": {}
+}
